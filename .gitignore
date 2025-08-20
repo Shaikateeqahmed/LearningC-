@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosf
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.dll
+*.lib
+*.exp
+*.ilk
+*.log
+*.obj
+*.pch
+*.res
+*.tlb
+*.tmp
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.xml
+*.cache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# NuGet
+*.nupkg
+*.snk
+packages/
+!packages/repositories.config
+*.nuget.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+*.DotSettings
+
+# Visual Studio Code
+.vscode/
+
+# Other
+*.bak
+*.orig
+*.swp
+*.~
+*.pid
+*.lock
+*.DS_Store
+Thumbs.db
