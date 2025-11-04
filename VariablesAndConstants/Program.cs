@@ -23,4 +23,4 @@ Console.WriteLine(character);
 Console.WriteLine(firstName);
 Console.WriteLine(isWorking);
 
-Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);//output 0 225 (it will return the limit of data type)
